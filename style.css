@@ -77,3 +77,9 @@ margin-bottom: 0;
     font-size: 0.8em;
     padding-left: 10px;
 }
+footer{
+   text-align: center;
+   display: inline;
+   margin: 32px;
+   
+}
