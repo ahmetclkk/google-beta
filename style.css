@@ -1,0 +1,79 @@
+html{
+    margin-top: 150px;
+}
+header{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search{
+    text-align: center;
+    background-color: gainsboro;
+    width: 1896px;
+}
+.search p{
+margin-bottom: 0;
+}
+.search input{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.specialsearches{
+    background-color: rgba(127, 255, 212, 0.363);
+    width: 632px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+}
+.specialsearches p{
+    display: block;
+    margin-bottom: 0;
+}
+.specialsearches a{
+    display: block;
+    
+}
+.linux{
+    margin-bottom: 16px;
+}
+.help{
+    background-color: rgba(127, 255, 212, 0.637);
+    width: 632px;
+    display: block;
+    margin-left: 3px;
+    margin-right: auto;
+    text-align: center;
+    height: 86px;
+    float: left;
+}
+.help a{
+    display: block; 
+     
+}
+.helpit{
+    margin-top: 8px;
+}
+
+.subscribe {
+    background-color: aquamarine;
+    width: 626px;
+    display: block;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+    margin-left: 3px;
+    height: 86px;
+    
+}
+.subscribe p{
+    font-size: 0.8em;
+    margin:0;
+    font-weight: bold;
+}
+.subscribe a{
+    font-size: 0.8em;
+    padding-left: 10px;
+}
